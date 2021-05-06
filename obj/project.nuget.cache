@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xbgiIxr6N9wonEBNhB1rTvA16pYXUDQ9Me2dEHpdr4Dq94tHk0JhszIOuwEg89V19QRUX/uLQq727cMzWt9nJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mytti\\OneDrive\\3. Semester Programmering\\SemProComment2\\SemProComment2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mytti\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Mytti\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+C:\Users\Mytti\OneDrive\3. Semester Programmering\SemProComment2\bin\Release\netstandard2.0\SemProComment2.deps.json
+C:\Users\Mytti\OneDrive\3. Semester Programmering\SemProComment2\bin\Release\netstandard2.0\SemProComment2.dll
+C:\Users\Mytti\OneDrive\3. Semester Programmering\SemProComment2\bin\Release\netstandard2.0\SemProComment2.pdb
+C:\Users\Mytti\OneDrive\3. Semester Programmering\SemProComment2\obj\Release\netstandard2.0\SemProComment2.csprojAssemblyReference.cache
+C:\Users\Mytti\OneDrive\3. Semester Programmering\SemProComment2\obj\Release\netstandard2.0\SemProComment2.AssemblyInfoInputs.cache
+C:\Users\Mytti\OneDrive\3. Semester Programmering\SemProComment2\obj\Release\netstandard2.0\SemProComment2.AssemblyInfo.cs
+C:\Users\Mytti\OneDrive\3. Semester Programmering\SemProComment2\obj\Release\netstandard2.0\SemProComment2.csproj.CoreCompileInputs.cache
+C:\Users\Mytti\OneDrive\3. Semester Programmering\SemProComment2\obj\Release\netstandard2.0\SemProComment2.dll
+C:\Users\Mytti\OneDrive\3. Semester Programmering\SemProComment2\obj\Release\netstandard2.0\SemProComment2.pdb
